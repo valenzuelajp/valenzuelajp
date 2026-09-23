@@ -6,4 +6,3 @@
 - 👯 I'm looking to collaborate on PHP/CodeIgniter web apps and open-source projects
 - 💬 Ask me about PHP, CodeIgniter 3, MySQL, Bootstrap, Tailwind CSS, or AI-assisted feature integration
 - 📫 How to reach me: jp.agustin.valenzuela.19@gmail.com
-- ⚡ Fun fact: I also built an IoT-based carbon monoxide monitoring system using Arduino and ESP32!
